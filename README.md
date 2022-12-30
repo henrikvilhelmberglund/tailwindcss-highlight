@@ -1,3 +1,7 @@
+This is a pre v2 fork of the Tailwind CSS Highlight extension.
+
+Original readme below. (images probably broken)
+
 # Tailwind CSS Highlight
 
 ![](https://raw.githubusercontent.com/ellreka/tailwindcss-highlight/main/assets/visual-image2.png)

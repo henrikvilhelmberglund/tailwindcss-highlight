@@ -1,13 +1,13 @@
 {
-  "name": "tailwindcss-highlight",
-  "displayName": "Tailwind CSS Highlight",
+  "name": "tailwindcss-highlight-henrikvilhelmberglund",
+  "displayName": "Tailwind CSS Highlight (pre v2 fork)",
   "version": "1.4.1",
   "main": "out/extension.js",
   "license": "MIT",
-  "publisher": "ellreka",
+  "publisher": "henrikvilhelmberglund",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellreka/tailwindcss-highlight.git"
+    "url": "https://github.com/henrikvilhelmberglund/tailwindcss-highlight.git"
   },
   "keywords": [
     "tailwindcss",
